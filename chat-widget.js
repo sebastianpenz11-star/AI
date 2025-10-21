@@ -59,7 +59,7 @@
             align-items: center;
             justify-content: center;
             transition: color 0.2s;
-            font-size: 20px;
+            font-size: 50px;
             opacity: 0.6;
         }
 
